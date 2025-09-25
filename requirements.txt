@@ -1,0 +1,6 @@
+pytube>=15.0.0
+yt-dlp
+moviepy
+pillow
+tkinter
+pyinstaller

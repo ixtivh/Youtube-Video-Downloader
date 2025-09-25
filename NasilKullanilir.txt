@@ -1,0 +1,104 @@
+YOUTUBE VİDEO/PLAYLIST İNDİRİCİ KULLANIM KILAVUZU
+===============================================
+
+1. Programı Başlatma
+--------------------
+• Programı çift tıklayarak başlatın.
+• Gerekli dosyaların bulunduğundan emin olun (yt-dlp.exe, ffmpeg.exe gereklidir).
+
+2. Dil Seçimi
+-------------
+• Sol üstteki 🌐 simgesine tıklayarak Türkçe veya İngilizce dilini seçebilirsiniz.
+
+3. YouTube Linki Girme
+----------------------
+• İndirmek istediğiniz video veya oynatma listesi (playlist) linkini ilgili kutuya yapıştırın.
+• Playlist linki girerseniz listedeki tüm videolar otomatik olarak indirilir.
+
+4. İndirme Türü Seçimi
+----------------------
+• MP4 (video+ses) veya MP3 (sadece ses) seçeneklerinden birini seçin.
+
+5. Çözünürlük Seçimi (Video için)
+----------------------------------
+• “Çözünürlükleri Getir” butonuna tıklayarak mevcut video çözünürlüklerini listeleyin.
+• Listeden istediğiniz çözünürlüğü seçin.
+
+6. Kayıt Klasörü Seçimi
+-----------------------
+• “Klasör Seç” butonuyla indirme dosyalarının kaydedileceği klasörü belirleyin.
+
+7. İndirme İşlemi
+-----------------
+• “İndir” butonuna tıklayın.
+• İlerleme barı ve durum mesajlarını takip edin.
+• İndirme sırasında “İptal” butonuyla işlemi durdurabilirsiniz.
+
+8. Sık Karşılaşılan Sorunlar
+----------------------------
+• Bağlantı veya eksik dosya uyarısı alırsanız:
+  - İnternet bağlantınızı ve gerekli dosyaları kontrol edin.
+  - Gerekirse programı yönetici olarak yeniden başlatın.
+• FFmpeg veya yt-dlp eksikse otomatik kurulum önerisini kabul edin veya manuel yükleyin.
+
+9. Marka ve Lisans
+------------------
+• Tüm hakları saklıdır. © 2025 ixtivh
+• Programın logosu ve arayüz tasarımı ixtivh tarafından hazırlanmıştır.
+
+Sorularınız için: ixtivh@gmail.com
+
+İyi kullanımlar!
+
+
+YOUTUBE VIDEO/PLAYLIST DOWNLOADER USER GUIDE (ENGLISH)
+======================================================
+
+1. Starting the Program
+-----------------------
+• Double-click the program to start.
+• Make sure all required files are present (yt-dlp.exe, ffmpeg.exe are necessary).
+
+2. Language Selection
+---------------------
+• Click the 🌐 icon at the top left to select Turkish or English.
+
+3. Entering YouTube Link
+------------------------
+• Paste the link of the video or playlist you want to download into the input box.
+• If you enter a playlist link, all videos in the list will be downloaded automatically.
+
+4. Selecting Download Type
+--------------------------
+• Choose between MP4 (video+audio) or MP3 (audio only).
+
+5. Resolution Selection (for Video)
+-----------------------------------
+• Click the “Fetch Resolutions” button to list available video resolutions.
+• Select your desired resolution from the list.
+
+6. Selecting Download Folder
+----------------------------
+• Use the “Browse” button to choose the folder where downloads will be saved.
+
+7. Downloading
+--------------
+• Click the “Download” button.
+• Follow the progress bar and status messages.
+• You can cancel the download at any time using the “Cancel” button.
+
+8. Common Issues
+----------------
+• If you get a connection or missing file warning:
+  - Check your internet connection and required files.
+  - If needed, restart the program as administrator.
+• If FFmpeg or yt-dlp is missing, accept the automatic installation prompt or install manually.
+
+9. Brand and License
+--------------------
+• All rights reserved. © 2025 ixtivh
+• Program logo and interface design by ixtivh.
+
+Contact: ixtivh@gmail.com
+
+Happy downloading!
